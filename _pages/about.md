@@ -11,6 +11,6 @@ author_profile: true
 ---
 
 > An American monkey, after getting drunk on brandy, would never touch it
-> again, and thus is much wiser than most men. fuck them all
+> again, and thus is much wiser than most men. 
 
 Charles Darwin
