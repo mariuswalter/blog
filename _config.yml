@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Biology and Poetry"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "marius walter"
+description              : "personal website of marius walter"
+url                      : https://mariuswalter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : /blog # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -26,6 +26,9 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+
+
+
 
 # SEO Related
 google_site_verification :
@@ -61,11 +64,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "marius walter "
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : PhD
+  location         : "Paris, France"
+  email            : marius.walter@m4x.org
   uri              :
   bitbucket        :
   codepen          :
@@ -84,7 +87,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : mw_fr
   vine             :
   weibo            :
   xing             :
